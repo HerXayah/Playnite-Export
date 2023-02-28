@@ -1,0 +1,14 @@
+{
+    "background_color": "rgb(18,18,18)",
+    "description": "games 🌸 *★,°*:.☆(￣▽￣)/$:*.°★* 。",
+    "display": "fullscreen",
+    "icons": [{
+            "src": "image.jpg",
+            "sizes": "750x750",
+            "type": "image/jpg"
+        }
+    ],
+    "name": "games 🌸 *★,°*:.☆(￣▽￣)/$:*.°★* 。"",
+    "short_name": "games 🌸 *★,°*:.☆(￣▽￣)/$:*.°★* 。"",
+    "start_url": "index.html"
+}

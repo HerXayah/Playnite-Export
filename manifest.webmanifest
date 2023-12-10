@@ -1,14 +1,14 @@
 {
-    "background_color": "rgb(18,18,18)",
-    "description": "games 🌸 *★,°*:.☆(￣▽￣)/$:*.°★* 。",
+    "background_color": "rgb(36,40,47)",
+    "description": "My Game Collection From Playnite",
     "display": "fullscreen",
     "icons": [{
-            "src": "image.jpg",
-            "sizes": "750x750",
-            "type": "image/jpg"
+            "src": "web-icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
         }
     ],
-    "name": "games 🌸 *★,°*:.☆(￣▽￣)/$:*.°★* 。"",
-    "short_name": "games 🌸 *★,°*:.☆(￣▽￣)/$:*.°★* 。"",
+    "name": "My Game Collection From Playnite",
+    "short_name": "My Game Collection",
     "start_url": "index.html"
 }
